@@ -33,7 +33,7 @@ dayDict={"0":"Sunday",
          "4":"Thursday",
          "5":"Friday",
          "6":"Saturday"}
-print("Are You For ",dayDict[str(remimderResult)])
+print("Are You Looking For ",dayDict[str(remimderResult)])
 
 
 
